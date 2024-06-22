@@ -11,4 +11,5 @@
 ! 🌔 4. Estructuras
 + 🌔 5.  Listas y Patrones
 - 🌔 6. Nros Naturales
+! 🌔 7. Random Module
 ```
